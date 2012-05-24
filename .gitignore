@@ -1,0 +1,14 @@
+HelloAndroid/.metadata
+HelloAndroid/HelloViews/bin/classes.dex
+HelloAndroid/HelloViews/bin/HelloViews.apk
+HelloAndroid/HelloViews/bin/jarlist.cache
+HelloAndroid/HelloViews/bin/classes/com/isoftpark/helloviews/BuildConfig.class
+HelloAndroid/HelloViews/bin/classes/com/isoftpark/helloviews/HelloViewsActivity.class
+HelloAndroid/HelloViews/bin/classes/com/isoftpark/helloviews/R$attr.class
+HelloAndroid/HelloViews/bin/classes/com/isoftpark/helloviews/R$drawable.class
+HelloAndroid/HelloViews/bin/classes/com/isoftpark/helloviews/R$layout.class
+HelloAndroid/HelloViews/bin/classes/com/isoftpark/helloviews/R$string.class
+HelloAndroid/HelloViews/bin/classes/com/isoftpark/helloviews/R.class
+HelloAndroid/HelloViews/gen/com/isoftpark/helloviews/BuildConfig.java
+HelloAndroid/HelloViews/gen/com/isoftpark/helloviews/R.java
+.DS_Store
