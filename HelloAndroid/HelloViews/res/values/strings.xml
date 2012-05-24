@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">Fuck last!!!Hello World, HelloViewsActivity!</string>
+    <string name="app_name">HelloViews</string>
+
+</resources>
