@@ -1,0 +1,3 @@
+INDEX VERSION 1.126+/Charley/prj_git/HelloAndroid/.metadata/.plugins/org.eclipse.jdt.core
+631539131.index
+1951727051.index
