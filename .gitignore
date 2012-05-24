@@ -12,3 +12,5 @@ HelloAndroid/HelloViews/bin/classes/com/isoftpark/helloviews/R.class
 HelloAndroid/HelloViews/gen/com/isoftpark/helloviews/BuildConfig.java
 HelloAndroid/HelloViews/gen/com/isoftpark/helloviews/R.java
 .DS_Store
+HelloAndroid/HelloViews/bin/res
+HelloAndroid/HelloViews/bin/resources.ap_
