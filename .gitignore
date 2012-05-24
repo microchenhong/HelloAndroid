@@ -15,3 +15,14 @@ HelloAndroid/HelloViews/gen/com/isoftpark/helloviews/R.java
 HelloAndroid/HelloViews/bin/res
 HelloAndroid/HelloViews/bin/resources.ap_
 HelloAndroid/HelloWorld/bin
+HelloAndroid/HelloWorld/gen/com/isoftpark/helloworld/BuildConfig.java
+HelloAndroid/HelloWorld/gen/com/isoftpark/helloworld/R.java
+HelloAndroid/HelloWorld/gen
+HelloAndroid/HelloWorld/bin/jarlist.cache
+HelloAndroid/HelloWorld/bin/classes/com/isoftpark/helloworld/BuildConfig.class
+HelloAndroid/HelloWorld/bin/classes/com/isoftpark/helloworld/HelloWorldActivity.class
+HelloAndroid/HelloWorld/bin/classes/com/isoftpark/helloworld/R$attr.class
+HelloAndroid/HelloWorld/bin/classes/com/isoftpark/helloworld/R$drawable.class
+HelloAndroid/HelloWorld/bin/classes/com/isoftpark/helloworld/R$layout.class
+HelloAndroid/HelloWorld/bin/classes/com/isoftpark/helloworld/R$string.class
+HelloAndroid/HelloWorld/bin/classes/com/isoftpark/helloworld/R.class
