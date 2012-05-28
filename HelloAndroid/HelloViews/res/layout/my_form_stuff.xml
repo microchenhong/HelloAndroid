@@ -1,0 +1,129 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical" >
+    
+    <LinearLayout
+        android:layout_width="fill_parent" 
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+        
+        <Button 
+        android:id="@+id/buttonAndroid1"
+        android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:padding="10dp"
+		android:background="@drawable/android_button"
+		android:onClick="onButtonAndroidClicked"
+        />
+
+    <EditText 
+        android:id="@+id/editText1"
+        android:layout_width="wrap_content"
+		android:layout_height="wrap_content"
+		android:inputType="text"
+        />
+    
+    <CheckBox 
+        android:id="@+id/checkBox1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:onClick="onCheckBoxClicked"
+        />
+    
+    <ToggleButton 
+        android:id="@+id/toggleButton1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:textOn="Vib On"
+        android:textOff="Vib Off"
+        android:onClick="onToggleButtonClicked"
+        
+        />
+    
+    </LinearLayout>
+    
+    
+    <RadioGroup android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+        
+        <RadioButton 
+            android:id = "@+id/radioButtonRed"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Red"
+            android:onClick="onRadioButtonClicked"
+            />
+        <RadioButton 
+            android:id = "@+id/radioButtonYellow"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Yellow"
+            android:onClick="onRadioButtonClicked"
+            />
+        
+        <RadioButton 
+            android:id = "@+id/radioButtonBule"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Blue"
+            android:onClick="onRadioButtonClicked"
+            />
+        
+        <RadioButton 
+            android:id = "@+id/radioButtonGreen"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Green"
+            android:onClick="onRadioButtonClicked"
+            />
+      
+    </RadioGroup>
+    
+    
+    
+    <RatingBar 
+        android:id="@+id/ratingButton1"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:numStars="5"
+        android:stepSize="1"
+        
+        />
+    
+    <TextView 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="10dp"
+        android:text="@string/planet_prompt"
+        />
+    <Spinner 
+        android:id="@+id/spinner1"
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:prompt="@string/planet_prompt"
+         />
+    
+    <LinearLayout 
+        android:layout_width="fill_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal"
+        >
+        <TextView 
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Country"
+            />
+        
+        <AutoCompleteTextView 
+            android:id="@+id/autocomplete_country"
+            android:layout_width="fill_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="5dp"
+            />
+        
+    </LinearLayout>
+</LinearLayout>
