@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="hello">你好!</string>
+    <string name="app_name">你好，本地化</string>
+
+    <string name="text_a">文本a，很好“”！‘</string>
+    <string name="text_b">文本2</string>
+    
+    <string name="dialog_title">中文本地化</string>
+    <string name="dialog_text"> 已经本地化了。。.</string>
+    
+    
+    
+</resources>

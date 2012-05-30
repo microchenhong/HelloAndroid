@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<resources>
+
+    <string name="hello">德语-Hello World, HelloLocalizationActivity!</string>
+    <string name="app_name">德语-HelloLocalization</string>
+
+    <string name="text_a">德语-Texta, it\'s very good. \"OK\" go</string>
+    <string name="text_b">德语-bb</string>
+    
+    <string name="dialog_title">德语-No Localisation</string>
+    <string name="dialog_text">德语-This dialog box"'"s strings are not localised. For every locale, the text here will come from values/strings.xml.</string>
+    
+    
+    
+</resources>
+    
